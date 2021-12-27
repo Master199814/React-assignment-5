@@ -1,0 +1,97 @@
+.site-container{
+  text-align: center;
+ 
+
+}
+html {
+  font-size: 14px;
+}
+body {
+  line-height: 1.5;
+  color: black;
+  margin:0;
+} 
+.header
+{
+  height:60px;
+
+}
+.card
+{
+  height:300px;
+  width:300px;
+  border:2px solid grey;
+  margin-bottom:20px;
+  margin-left:30%;
+}
+img{
+  height:150px;
+  width:301px;
+
+}
+h2
+{
+  color:green;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  float:left;
+  margin-left:10%;
+}
+.posterh
+{
+  float:left;
+}
+.posterlocation
+{
+  color:grey;
+}
+.threedots
+{
+  margin-bottom: 4%;
+  margin-left:95%;
+
+}
+.date
+{
+  float:right;
+  margin-right:1%;
+}
+
+.fa fa-heart-o
+{
+  font-size: 36px;
+  float:left;
+
+}
+.far fa-heart
+{
+  font-size: 36px;
+}
+.desc
+{
+  float: left;
+  font-weight:bold;
+}
+.symbol
+{
+  float:left;
+  
+}
+i
+{
+  margin:5px;
+}
+.likes
+{
+ 
+  float:left;
+  margin-left:-14%;
+  color:grey;
+  
+}
+.fa fa-camera
+{
+  width:70px;
+  height:70px;
+  margin-top:10%;
+
+}
