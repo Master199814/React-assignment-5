@@ -1,0 +1,31 @@
+.imgl{
+    width:400px;
+    height:400px;
+    margin-left:100px;
+    float:left;
+    margin-top:20%;
+    margin-left:20%;
+    margin-bottom:10%;
+   
+}
+
+.head{
+    color:green;
+    display: inline-block;
+    margin-left:-30%;
+    margin-top:30%;
+
+    
+    
+}
+.buttoncl{
+    border:2px solid green;
+    background-color: white;
+    border-radius:12.5%;
+    display: inline-block;
+    margin-left:-30%;
+    color:green;
+    padding:7px;
+   
+}
+

@@ -1,0 +1,33 @@
+
+{
+    "user":
+            [
+            {
+            "id":1,
+            "name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "..//images//bg.jpeg",
+            "date":"20 may 2019"
+            },
+            {
+            "id":2,
+            "name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "..//images//bidog.jpeg",
+            "date":"20 may 2020"
+            },
+            {
+            "id":3,
+            "name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "..//images//bldog.jpeg",
+            "date":"20 may 2021"
+            }
+        ]
+}
